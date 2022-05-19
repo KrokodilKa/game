@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="82.73304"
+   height="77.282089"
+   viewBox="0 0 21.889782 20.447553"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="hand.svg"
+   inkscape:export-filename="/home/numa/Изображения/игра/куопна/hand.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask908">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 71.569792,42.465625 c 0,0 -2.645836,5.490104 0.727604,6.35 3.373435,0.859896 3.836458,7.540625 3.638021,8.268229 -0.198438,0.727604 5.622393,5.027083 6.35,5.027083 0.727604,0 2.182812,8.334375 3.505729,8.400519 1.587497,1.124484 14.765064,4.020783 12.633854,13.69219 l 7.04688,8.77802 c 0,0 7.04218,7.824584 -12.140109,7.626144 -19.182292,-0.19844 -23.703775,1.84333 -26.061459,1.85208 -2.357683,0.009 -6.085416,-1.5875 -8.995833,-1.12447 -2.910417,0.46302 -6.443866,5.67204 -6.443866,5.67204 l 78.663767,-2.55987 0.0293,-5.687162 z"
+         id="path910"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssscccszccccc" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask913">
+      <path
+         sodipodi:nodetypes="czzssssccccc"
+         inkscape:connector-curvature="0"
+         id="path915"
+         d="m 60.192708,35.057292 c 0,0 0.817819,7.288508 0.198433,8.40052 -0.619385,1.11201 -0.712658,6.303495 0.79375,7.672917 1.506407,1.369423 2.666759,5.316421 2.116666,8.433594 -0.198437,1.124479 5.816812,2.91511 5.291667,10.748698 -0.06763,1.008822 0.0555,13.929685 -6.8785,20.640384 -6.876733,6.655273 -20.783735,7.111145 -27.361542,5.642671 -16.66527,-3.720471 -16.494089,3.925974 -16.494089,3.925974 l 88.123887,10.85947 2.25446,-24.150017 -38.266282,-54.283919 z"
+         style="fill:#ffffff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask2087">
+      <path
+         style="fill:#fff7ec;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 11.178646,85.725 c 0,0 -6.2838543,-2.38125 -4.1671879,-6.482294 2.1166669,-4.101039 0.5953125,-6.482289 3.2411459,-6.482289 2.645833,0 5.027083,0.926039 5.027083,0.926039 0,0 1.653646,0.859898 4.696354,0.661461 3.042709,-0.198438 4.233334,-2.248961 4.431771,-4.034896 0.198438,-1.78594 2.976563,1.785935 2.976563,1.785935 l 0.661458,5.159375 z"
+         id="path2089"
+         inkscape:connector-curvature="0" />
+    </mask>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2107"
+       x="-0.060587581"
+       width="1.1211752"
+       y="-0.059423707"
+       height="1.1188474">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.040183931"
+         id="feGaussianBlur2109" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2119"
+       x="-0.054830108"
+       width="1.1096601"
+       y="-0.066246316"
+       height="1.1324925">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.053612596"
+         id="feGaussianBlur2121" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="35.982661"
+     inkscape:cy="31.802228"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg8"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1600"
+     inkscape:window-height="829"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none;opacity:1"
+     transform="translate(-5.2277411,-230.67588)"
+     sodipodi:insensitive="true" />
+  <path
+     style="fill:#636059;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 16.892365,12.263591 c -1.659321,-1.588188 -2.650533,-1.323404 -3.770312,-1.190625 -2.250304,0.848668 -4.4591691,-0.245209 -4.4591691,-0.245209 0,0 -0.43337,-0.385675 -0.816792,-0.8598962 -0.421638,-0.521486 -1.69675,-0.529167 -1.762896,0.5291662 -0.06614,1.058334 0.06615,3.638021 -1.852083,4.299479 -1.9182291,0.661459 1.719792,4.960938 1.719792,4.960938 0,0 -7.3159148,-1.859824 -5.15937519,-7.209896 C 2.2019129,9.0485848 2.1184588,7.7309398 2.1184588,7.7309398 2.431741,6.7387508 1.6514255,4.6100478 5.9509049,5.2715068 c 4.2994791,0.661458 5.4901041,-1.455209 5.4901041,-1.455209 0,0 1.93367,-4.15888497 4.299479,-3.30729097 2.860501,1.02966297 4.960937,4.03489497 4.960937,4.03489497 0,0 3.373437,7.0589192 -3.80906,7.7196892 z"
+     id="path1298"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccscccssscscc"
+     inkscape:label="Рука светлая заливка" />
+  <path
+     inkscape:label="Рука средняя заливка"
+     sodipodi:nodetypes="cccscccssscscc"
+     inkscape:connector-curvature="0"
+     id="path2083"
+     d="m 22.120106,78.231146 c -1.659321,-1.588188 -2.650533,-1.323404 -3.770312,-1.190625 -2.250304,0.848668 -4.459169,-0.245209 -4.459169,-0.245209 0,0 -0.43337,-0.385675 -0.816792,-0.859896 -0.421638,-0.521486 -1.69675,-0.529167 -1.762896,0.529166 -0.06614,1.058334 0.06615,3.638021 -1.852083,4.299479 -1.9182291,0.661459 1.719792,4.960938 1.719792,4.960938 0,0 -7.3159148,-1.859824 -5.1593752,-7.209896 1.4103832,-3.498963 1.3269291,-4.816608 1.3269291,-4.816608 0.3132822,-0.992189 -0.4670333,-3.120892 3.8324461,-2.459433 4.299479,0.661458 5.490104,-1.455209 5.490104,-1.455209 0,0 1.93367,-4.158885 4.299479,-3.307291 2.860501,1.029663 4.960937,4.034895 4.960937,4.034895 0,0 3.373437,7.058919 -3.80906,7.719689 z"
+     style="fill:#45413e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     mask="url(#mask2087)"
+     transform="translate(-5.2277411,-65.967555)" />
+  <path
+     style="fill:#3f3931;fill-opacity:1;stroke:#3a332a;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter2119)"
+     d="m 11.072359,11.109567 c 0,0 -1.2862351,-0.795126 -0.210475,-1.6370252 1.07576,-0.841899 1.917659,0.7951262 1.917659,0.7951262 0,0 -0.11693,1.192691 -1.707184,0.841899 z"
+     id="path2091"
+     inkscape:connector-curvature="0"
+     inkscape:label="пятно" />
+  <path
+     style="fill:#3f3b32;fill-opacity:1;stroke:#3a332a;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter2107)"
+     d="m 13.364195,8.6306428 c 0,0 -0.678196,-1.333008 0.631425,-1.590254 1.30962,-0.257246 0.584652,1.145918 0.584652,1.145918 -0.374177,0.491106 -1.216077,0.444336 -1.216077,0.444336 z"
+     id="path2093"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cscc"
+     inkscape:label="пятно" />
+  <path
+     style="fill:none;stroke:#2a2723;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 15.10741,0.42906513 c 0,0 6.735192,3.64822887 4.069178,9.35443357"
+     id="path2123"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:label="складка" />
+  <path
+     inkscape:label="Рука обводка"
+     sodipodi:nodetypes="cccscccssscscc"
+     inkscape:connector-curvature="0"
+     id="path2081"
+     d="m 16.892365,12.263591 c -1.659321,-1.588188 -2.650533,-1.323404 -3.770312,-1.190625 -2.250304,0.848668 -4.4591691,-0.245209 -4.4591691,-0.245209 0,0 -0.43337,-0.385675 -0.816792,-0.8598962 -0.421638,-0.521486 -1.69675,-0.529167 -1.762896,0.5291662 -0.06614,1.058334 0.06615,3.638021 -1.852083,4.299479 -1.9182291,0.661459 1.719792,4.960938 1.719792,4.960938 0,0 -7.3159148,-1.859824 -5.15937519,-7.209896 C 2.2019129,9.0485848 2.1184588,7.7309398 2.1184588,7.7309398 2.431741,6.7387508 1.6514255,4.6100478 5.9509049,5.2715068 c 4.2994791,0.661458 5.4901041,-1.455209 5.4901041,-1.455209 0,0 1.93367,-4.15888497 4.299479,-3.30729097 2.860501,1.02966297 4.960937,4.03489497 4.960937,4.03489497 0,0 3.373437,7.0589192 -3.80906,7.7196892 z"
+     style="fill:none;stroke:#2a2723;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+</svg>

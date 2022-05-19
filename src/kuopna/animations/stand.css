@@ -1,0 +1,24 @@
+@keyframes slidein {
+
+    0% {
+        /*transform-origin: 100% 0;*/
+        transform: rotate(0turn);
+    }
+
+    50% {
+        /*transform-origin: 100% 0;*/
+        transform: rotate(-0.1turn);
+    }
+
+    100% {
+        /*transform-origin: 100% 0;*/
+        transform: rotate(0turn);
+    }
+}
+
+.kuopna_stand_hand{
+    transform-origin: 100% 0;
+    animation-duration: 5s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+}
